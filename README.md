@@ -1,2 +1,2 @@
-# tutorial.react.org
+# Tutorial React Game
 Tutorial of ReactJS
